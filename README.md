@@ -65,15 +65,6 @@ mounish = {
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bv-mounish-reddy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bv-mounish-reddy&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### Certifications
 
 - **AWS Certified Cloud Practitioner** - Amazon Web Services (2023)
