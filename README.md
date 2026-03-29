@@ -10,7 +10,7 @@
 
 I build **GenAI systems**, from multi-agent pipelines to RAG architectures: at the intersection of LLMs, real-world engineering, and measurable impact.
 
-Currently at **Analytics Vidhya (Gurgaon)**, where I design AI Agents, RAG pipelines, and LLMOps infrastructure that actually ship.
+Currently at **Analytics Vidhya!**.
 
 ```python
 mounish = {
@@ -18,7 +18,6 @@ mounish = {
     "focus":    ["AI Agents", "RAG", "LLMOps", "Generative AI"],
     "stack":    ["LangGraph", "LangChain", "FastAPI", "PostgreSQL", "Redis", "Airflow"],
     "cloud":    "AWS Certified Cloud Practitioner",
-    "writing":  "Technical blogs on LLMs, agent architectures & inference trade-offs",
 }
 ```
 
@@ -77,11 +76,11 @@ mounish = {
 
 ### Certifications
 
-- **AWS Certified Cloud Practitioner** — Amazon Web Services (2023)
+- **AWS Certified Cloud Practitioner** - Amazon Web Services (2023)
 
 ---
 
-### Connect
+### Profile
 
 <div align="left">
 
